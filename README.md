@@ -56,7 +56,7 @@ Here are some resources we refer to to finish this project:
 [https://github.com/ARMmbed/mbed-os-example-sockets]
 * Pitches for notes  
 [https://gist.github.com/mikeputnam/2820675]
-* Game example using Tkinter
+* Game example using Tkinter  
 [https://github.com/chaiyenwu/python]
-* Tkinter canvas usage
+* Tkinter canvas usage  
 [https://shengyu7697.github.io/python-tkinter-canvas/?fbclid=IwAR09GuSAVgkDUkuLKacSlHE6nP6Q70kdlGXi_zEaXvQenwKF8RxeAe3DS7E]
